@@ -1,3 +1,6 @@
+%  Copyright © 2021 Nikolay Ampilogov
+%  Licensed under the MIT License
+
 function [fname2Save] = multiFig2Pdf(opt)
 arguments
     opt.nameDataFilesRootFold (1,:) char {mustBeNonempty, mustBeFinite}
