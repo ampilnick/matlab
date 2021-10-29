@@ -5,6 +5,7 @@ arguments
 end
 
 addpath('Libs');
+
 import mlreportgen.report.*
 import mlreportgen.dom.*
 
